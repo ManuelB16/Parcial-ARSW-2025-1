@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RestapidemoApplication<restapidemo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "edu.eci.arsw.myrestaurant.RestapidemoApplication",
+            "projectName": "restapidemo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

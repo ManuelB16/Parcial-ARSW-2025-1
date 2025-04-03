@@ -67,4 +67,14 @@ public class Order {
 
     }
 
+    public void addProduct(RestaurantProduct rp1) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'addProduct'");
+    }
+
+    public String getId() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getId'");
+    }
+
 }
